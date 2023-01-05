@@ -2,6 +2,8 @@ public class Main {
     public static void main(String... args){
         extracted("", "");
         System.out.println("change in master");
+        System.out.println("changes in branch1");
+
         test();
     }
 
