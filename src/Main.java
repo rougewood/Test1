@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String... args){
         extracted("", "");
+        System.out.println("change in master");
         test();
     }
 
